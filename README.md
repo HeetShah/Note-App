@@ -1,5 +1,7 @@
 # Note-App
 
+The purpose of this project was to use python in a web app and get to know flask.   
+
 To see the web app in action:
 
 1. Have python updated to latest version
